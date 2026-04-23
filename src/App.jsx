@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Body from "./components/body";
-import Login from "./components/login";
-import Profile from "./components/profile";
+import Login from "./components/Login";
+import Profile from "./components/Profile";
 import { Provider } from "react-redux";
 import appStore from "./utils/appStore";
-import Feed from "./components/feed";
+import Feed from "./components/Feed";
 import Connections from "./components/connections";
 import Request from "./components/Requests";
 import Chat from "./components/chat";
