@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect width="1280" height="800" fill="#1d232a"/>
+  <rect width="1280" height="64" fill="#171717"/>
+  <text x="32" y="42" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24">=
+ Link-Up</text>
+  <text x="1080" y="42" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16">Welcome, Alex</text>
+  <circle cx="1220" cy="32" r="20" fill="#6366f1"/>
+  <rect x="490" y="100" width="300" height="560" rx="16" fill="#2a323c" stroke="#38404a"/>
+  <rect x="520" y="130" width="240" height="240" rx="16" fill="#38404a"/>
+  <text x="640" y="410" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle">Sarah Johnson</text>
+  <text x="640" y="440" fill="#a6adbb" font-family="Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">28 , Female</text>
+  <text x="640" y="490" fill="#d1d5db" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="middle">Full-stack developer who loves React</text>
+  <text x="640" y="512" fill="#d1d5db" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="middle">and building products that connect people.</text>
+  <rect x="540" y="560" width="100" height="40" rx="8" fill="#570df8"/>
+  <text x="590" y="585" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Ignore</text>
+  <rect x="660" y="560" width="100" height="40" rx="8" fill="#f000b8"/>
+  <text x="710" y="585" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Interested</text>
+</svg>

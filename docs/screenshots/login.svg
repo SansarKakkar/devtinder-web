@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect width="1280" height="800" fill="#1d232a"/>
+  <rect width="1280" height="64" fill="#171717"/>
+  <text x="32" y="42" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24">=
+ Link-Up</text>
+  <rect x="440" y="140" width="400" height="420" rx="16" fill="#2a323c" stroke="#38404a"/>
+  <text x="640" y="210" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">Login</text>
+  <text x="470" y="260" fill="#a6adbb" font-family="Segoe UI, Arial, sans-serif" font-size="14">Email ID</text>
+  <rect x="470" y="270" width="340" height="44" rx="8" fill="#1d232a" stroke="#38404a"/>
+  <text x="486" y="298" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16">alex@developer.com</text>
+  <text x="470" y="350" fill="#a6adbb" font-family="Segoe UI, Arial, sans-serif" font-size="14">Password</text>
+  <rect x="470" y="360" width="340" height="44" rx="8" fill="#1d232a" stroke="#38404a"/>
+  <text x="486" y="388" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16">""""""""""</text>
+  <rect x="570" y="440" width="140" height="44" rx="8" fill="#570df8"/>
+  <text x="640" y="468" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" text-anchor="middle">Login</text>
+  <text x="640" y="520" fill="#a6adbb" font-family="Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">New User? Signup here</text>
+</svg>

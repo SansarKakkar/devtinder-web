@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect width="1280" height="800" fill="#1d232a"/>
+  <rect width="1280" height="64" fill="#171717"/>
+  <text x="32" y="42" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24">=
+ Link-Up</text>
+  <rect x="160" y="100" width="960" height="560" rx="12" fill="#2a323c" stroke="#52525b"/>
+  <text x="190" y="140" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Chat with Sarah Johnson</text>
+  <line x1="160" y1="160" x2="1120" y2="160" stroke="#52525b"/>
+  <rect x="190" y="190" width="360" height="56" rx="12" fill="#374151"/>
+  <text x="210" y="224" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="14">Hey! Want to collaborate on a side project?</text>
+  <rect x="730" y="270" width="330" height="56" rx="12" fill="#570df8"/>
+  <text x="750" y="304" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="14">Absolutely! I've been looking for a React partner.</text>
+  <rect x="190" y="350" width="390" height="56" rx="12" fill="#374151"/>
+  <text x="210" y="384" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="14">Perfect. I can handle the API if you take the frontend.</text>
+  <line x1="160" y1="580" x2="1120" y2="580" stroke="#52525b"/>
+  <rect x="190" y="600" width="760" height="40" rx="8" fill="#1d232a" stroke="#52525b"/>
+  <text x="206" y="626" fill="#a6adbb" font-family="Segoe UI, Arial, sans-serif" font-size="14">Type a message...</text>
+  <rect x="970" y="600" width="80" height="40" rx="8" fill="#f000b8"/>
+  <text x="1010" y="626" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Send</text>
+</svg>
